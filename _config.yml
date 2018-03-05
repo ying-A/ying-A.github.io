@@ -8,7 +8,7 @@
 # Site settings
 title: Coding never settle
 email: cyhaocn@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   My name is Changying Hao, I am currently a intern
   in Institute of Computing Technology, Chinese Academy of Sciences.
 baseurl: "" # the subpath of your site, e.g. /blog
